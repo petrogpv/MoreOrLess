@@ -1,4 +1,4 @@
-package com.petro.game.Model;
+package com.petro.game.model;
 
 /**
  * Created by Администратор on 14.05.2017.

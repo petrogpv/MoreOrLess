@@ -1,6 +1,6 @@
 package com.petro.game;
 
-import com.petro.game.Model.Model;
+import com.petro.game.model.Model;
 import com.petro.game.view.View;
 
 /**

@@ -1,4 +1,4 @@
-package com.petro.game.Model;
+package com.petro.game.model;
 
 import java.util.LinkedList;
 import java.util.List;

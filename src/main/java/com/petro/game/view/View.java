@@ -1,7 +1,7 @@
 package com.petro.game.view;
 
-import com.petro.game.Model.GameLog;
-import com.petro.game.Model.Model;
+import com.petro.game.model.GameLog;
+import com.petro.game.model.Model;
 
 import java.util.LinkedList;
 import java.util.List;
