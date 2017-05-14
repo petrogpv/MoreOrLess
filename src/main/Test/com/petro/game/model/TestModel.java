@@ -1,13 +1,12 @@
 package com.petro.game.model;
 
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 /**
  * Created by Администратор on 14.05.2017.
  */
-public class ModelTest {
+public class TestModel {
     @Test
     public void testRandAuto() throws Exception {
             Model model = new Model();
