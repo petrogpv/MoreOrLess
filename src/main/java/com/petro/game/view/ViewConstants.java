@@ -7,8 +7,8 @@ import java.util.ResourceBundle;
 public interface ViewConstants {
     String MESSAGES_BUNDLE_NAME = "messages";
     ResourceBundle bundle = ResourceBundle.getBundle(MESSAGES_BUNDLE_NAME,
-//                    new Locale("ua"));  // Ukrainian
-                    new Locale("en"));        // English
+                    new Locale("ua"));  // Ukrainian
+//                    new Locale("en"));        // English
     String START_GAME = bundle.getString("input.start.game");
     String INPUT_LOW_BOUND = bundle.getString("input.low.bound");
     String INPUT_HIGH_BOUND = bundle.getString("input.high.bound");
@@ -25,4 +25,5 @@ public interface ViewConstants {
     String TOTAL_ATTEMPTS = bundle.getString("input.total.attempts");
     String GAME_LOGS = bundle.getString("input.game.logs");
     String GAME_STATISTIC = bundle.getString("input.game.statistic");
+
 }
